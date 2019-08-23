@@ -28,10 +28,6 @@ npm install
 npm upgrade finxos-icons-editor-frontend
 ```
 
-## icons preview
-- https://afeiship.github.io/finxos-icons-editor-frontend/
-
-
 ## rebuild commands
 
 ```shell
