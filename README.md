@@ -9,7 +9,8 @@ npm install afeiship/finxos-icons-editor-frontend
 ## for designers
 1. Open your ali-icon-font accout.[LINK](http://www.iconfont.cn/plus)
 2. Add icon into `editor-frontend-icons` the project [LINK](https://www.iconfont.cn/manage/index?manage_type=myprojects&projectId=1353955)
-3. Send Notification.
+3. Make sure all the icon properties is okay.
+4. Send Notification(WeChat/Email) to (FE) guys.
 
 ## upgrade
 ```shell
