@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
-#!/bin/bash
+# downlolad file:
+node build/download.js
+
 file="download.zip"
 if [ -f "$file" ]
 then

@@ -15,5 +15,8 @@
   "license": "MIT",
   "devDependencies": {
     "rake-ali-iconfont": "github:afeiship/rake-ali-iconfont"
+  },
+  "dependencies": {
+    "next-node-download": "github:afeiship/next-node-download"
   }
 }
