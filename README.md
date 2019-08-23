@@ -24,3 +24,11 @@ npm upgrade finxos-icons-editor-frontend
 
 ## icons preview
 - https://afeiship.github.io/finxos-icons-editor-frontend/
+
+
+## rebuild commands
+
+| cmd   | description            |
+| ----- | ---------------------- |
+| build | Build new index.scss   |
+| docs  | Create new online docs |
