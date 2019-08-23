@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://afeiship.github.io/finxos-icons-editor-frontend/">
+    <img width="800" src="http://ww1.sinaimg.cn/large/006y8mN6ly1g69qhnwk8rj30m80650v8.jpg">
+  </a>
+</p>
+
 # finxos-icons-editor-frontend
 > Icons for editor-frontend.
 
