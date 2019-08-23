@@ -1,8 +1,24 @@
 #!/usr/bin/env bash
 
-rm -rf ./docs/*
-uzip download.zip
-rm -rf download.zip
+#!/bin/bash
+file="download.zip"
+if [ -f "$file" ]
+then
+	rm -rf ./docs/*
+  mv download.zip ./docs
+  cd docs
+  unzip download.zip
+  cp -R font_*/* .
+  mv demo_index.html index.html
+
+  # clean
+  rm -rf *.zip font_*
+else
+	echo "[Error]: Download.zip must be exist!"
+fi
+
+
+
 
 
 # 有以下问题不太好解决
