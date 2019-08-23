@@ -28,6 +28,14 @@ npm upgrade finxos-icons-editor-frontend
 
 ## rebuild commands
 
+```shell
+npm run build //at.alicdn.com/t/font_1353955_8084pisp1u9.css
+npm run docs
+git add --all
+git commit -m "auto: update by robot"
+git push
+```
+
 | cmd   | description            |
 | ----- | ---------------------- |
 | build | Build new index.scss   |
