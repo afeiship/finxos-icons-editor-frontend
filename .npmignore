@@ -6,3 +6,11 @@ test
 src
 build
 gulpfile.js
+
+# special for this project
+api
+bin
+docs
+.editorconfig
+Gemfile
+package.json
