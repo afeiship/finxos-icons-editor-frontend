@@ -8,12 +8,14 @@
     "email": "1290657123@qq.com"
   },
   "scripts": {
+    "start": "node server.js",
     "build": "./bin/sync-icons.sh",
     "docs": "./bin/docs.sh"
   },
   "main": "index.css",
   "license": "MIT",
   "devDependencies": {
+    "express": "^4.17.1",
     "rake-ali-iconfont": "github:afeiship/rake-ali-iconfont"
   },
   "dependencies": {
