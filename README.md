@@ -28,7 +28,7 @@ rm -rf node_modules/finxos-icons-editor-frontend
 npm install 
 
 # OR
-npm upgrade finxos-icons-editor-frontend
+npm update finxos-icons-editor-frontend
 ```
 
 ## rebuild commands
